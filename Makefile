@@ -1,5 +1,5 @@
 XBE_TITLE = LithiumX
-GEN_XISO = $(XBE_TITLE).iso
+#GEN_XISO = $(XBE_TITLE).iso
 NXDK_SDL = y
 NXDK_NET = y
 
